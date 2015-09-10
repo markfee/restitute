@@ -1,0 +1,21 @@
+{
+  "name": "restitute",
+  "description": "angular module to manage a collection linked to a restful repository with a select-able instance",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markfee/restitute.git"
+  },
+  "author": "Mark Fee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markfee/restitute/issues"
+  },
+  "homepage": "https://github.com/markfee/restitute#readme",
+  "devDependencies": {
+    "grunt-contrib-concat": "^0.5.1"
+  }
+}
