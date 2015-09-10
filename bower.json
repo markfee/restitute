@@ -1,0 +1,23 @@
+{
+  "name": "restitute",
+  "version": "1.0.0",
+  "homepage": "https://github.com/markfee/restitute",
+  "authors": [
+    "(Mark Fee <mark@markfee.com>)"
+  ],
+  "description": "angular module to manage a collection linked to a restful repository with a select-able instance",
+  "keywords": [
+    "angular",
+    "restful",
+    "collection",
+    "selection"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
