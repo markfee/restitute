@@ -5,6 +5,7 @@
   "authors": [
     "(Mark Fee <mark@markfee.com>)"
   ],
+  "main": "dist/restitute.js",
   "description": "angular module to manage a collection linked to a restful repository with a select-able instance",
   "keywords": [
     "angular",

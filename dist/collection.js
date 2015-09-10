@@ -2,7 +2,7 @@
  * Created by mark on 13/12/2014.
  */
 
-feenance.factory('Collection', function() {
+restitute.factory('Collection', function() {
 
     return function (api, $initialText) {
         var collection = { data: [] };
