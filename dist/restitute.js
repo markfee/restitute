@@ -137,7 +137,7 @@ restitute.factory('Collection', function() {
         this.getNextPage = getNextPage;
     };
 });
-feenance.factory('CollectionSelection', function() {
+restitute.factory('CollectionSelection', function() {
   var controller  = null;
 
   return function($collection, $controller, boundId) {
